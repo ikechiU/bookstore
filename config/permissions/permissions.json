@@ -1,0 +1,37 @@
+[
+  {
+    "name": "read-book",
+    "description": "This allows you to read a book",
+    "permissionType": "BOOK"
+  },
+  {
+    "name": "write-book",
+    "description": "This allows you to write to a book",
+    "permissionType": "BOOK"
+  },
+  {
+    "name": "delete-book",
+    "description": "This allows you to delete a book",
+    "permissionType": "BOOK"
+  },
+  {
+    "name": "read-profile",
+    "description": "This allows you to read a profile",
+    "permissionType": "USER"
+  },
+  {
+    "name": "create-profile",
+    "description": "This allows you to create a profile",
+    "permissionType": "USER"
+  },
+  {
+    "name": "edit-profile",
+    "description": "This allows you to to edit a profile",
+    "permissionType": "USER"
+  },
+  {
+    "name": "delete-profile",
+    "description": "This allows you to delete a profile",
+    "permissionType": "USER"
+  }
+]
