@@ -47,8 +47,14 @@ Welcome to the BookStore application, a simple and comprehensive platform for bo
 ### Installation
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/bookstore.git
+   - **HTTPS:**
+     ```sh
+     git clone https://github.com/ikechiU/bookstore.git
+     ```
+   - **SSH:**
+     ```sh
+     git clone git@github.com:ikechiU/bookstore.git
+     ```
 
 2. **Set up the database:**
    ```sh
