@@ -42,7 +42,7 @@ Welcome to the BookStore application, a simple and comprehensive platform for bo
 - Maven
 - Spring Boot (3.1.1)
 - H2 Database
-- **[Swagger UI](http://localhost:4040/swagger-ui.html)**
+- **[Swagger UI](http://localhost:4040/documentation/swagger-ui/index.html)**
 
 ### Installation
 
@@ -83,7 +83,7 @@ Welcome to the BookStore application, a simple and comprehensive platform for bo
 
 ### API Documentation
 - **Swagger Integration:** This application includes Swagger for easy API documentation and testing. Swagger provides an interactive interface where you can explore and interact with the application's endpoints.
-- **Accessing Swagger UI** Once the application is running, you can access the Swagger UI at the following URL: **[http:localhost:4040](http://localhost:4040/swagger-ui.html)**
+- **Accessing Swagger UI** Once the application is running, you can access the Swagger UI at the following URL: **[http://localhost:4040/documentation/swagger-ui/index.html](http://localhost:4040/documentation/swagger-ui/index.html)**
 
 ### Contributing
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
